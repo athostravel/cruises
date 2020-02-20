@@ -1,0 +1,27 @@
+{
+  "name": "avoristravel-cruises",
+  "version": "1.0.0",
+  "description": "Javascript modules for AvorisTravel Cruises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avoristravel/cruises.git"
+  },
+  "keywords": [
+    "avoristravel",
+    "cruises"
+  ],
+  "author": "AvorisTravel",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/avoristravel/cruises/issues"
+  },
+  "homepage": "https://github.com/avoristravel/cruises#readme",
+  "files": [
+    "components/*",
+    "index.js"
+  ]
+}
