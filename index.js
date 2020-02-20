@@ -1,2 +1,7 @@
-export { SelectizeSelect as default } from './components/SelectizeSelect'
-export { SelectizeInput as default } from './components/SelectizeInput'
+import SelectizeSelect from './components/SelectizeSelect'
+import SelectizeInput from './components/SelectizeInput'
+
+export {
+    SelectizeSelect,
+    SelectizeInput
+}

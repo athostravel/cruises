@@ -1,6 +1,6 @@
 {
   "name": "avoristravel-cruises",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Javascript modules for AvorisTravel Cruises",
   "main": "index.js",
   "scripts": {
